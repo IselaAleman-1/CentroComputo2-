@@ -1,0 +1,11 @@
+C:\Users\js831\source\repos\CentroComputo2\CentroComputo2.core\bin\Debug\net10.0\CentroComputo2.core.deps.json
+C:\Users\js831\source\repos\CentroComputo2\CentroComputo2.core\bin\Debug\net10.0\CentroComputo2.core.dll
+C:\Users\js831\source\repos\CentroComputo2\CentroComputo2.core\bin\Debug\net10.0\CentroComputo2.core.pdb
+C:\Users\js831\source\repos\CentroComputo2\CentroComputo2.core\obj\Debug\net10.0\CentroComputo2.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\js831\source\repos\CentroComputo2\CentroComputo2.core\obj\Debug\net10.0\CentroComputo2.core.AssemblyInfoInputs.cache
+C:\Users\js831\source\repos\CentroComputo2\CentroComputo2.core\obj\Debug\net10.0\CentroComputo2.core.AssemblyInfo.cs
+C:\Users\js831\source\repos\CentroComputo2\CentroComputo2.core\obj\Debug\net10.0\CentroComputo2.core.csproj.CoreCompileInputs.cache
+C:\Users\js831\source\repos\CentroComputo2\CentroComputo2.core\obj\Debug\net10.0\CentroComputo2.core.dll
+C:\Users\js831\source\repos\CentroComputo2\CentroComputo2.core\obj\Debug\net10.0\refint\CentroComputo2.core.dll
+C:\Users\js831\source\repos\CentroComputo2\CentroComputo2.core\obj\Debug\net10.0\CentroComputo2.core.pdb
+C:\Users\js831\source\repos\CentroComputo2\CentroComputo2.core\obj\Debug\net10.0\ref\CentroComputo2.core.dll

@@ -1,0 +1,112 @@
+[
+  {
+    "ContainingType": "CentroComputo2.API.Controllers.GeneracionesController",
+    "Method": "Get",
+    "RelativePath": "api/Generaciones",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CentroComputo2.API.Controllers.GeneracionesController",
+    "Method": "Post",
+    "RelativePath": "api/Generaciones",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newObj",
+        "Type": "Ein.DTOS.GeneracionSetDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CentroComputo2.API.Controllers.GeneracionesController",
+    "Method": "Delete",
+    "RelativePath": "api/Generaciones/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CentroComputo2.API.Controllers.GeneracionesController",
+    "Method": "Put",
+    "RelativePath": "api/Generaciones/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateObj",
+        "Type": "EIN.Entidades.GeneracionEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CentroComputo2.API.Controllers.GeneracionesController",
+    "Method": "Patch",
+    "RelativePath": "api/Generaciones/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateObj",
+        "Type": "Ein.DTOS.GeneracionSetDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CentroComputo2.API.Controllers.GruposController",
+    "Method": "Listar",
+    "RelativePath": "api/Grupos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CentroComputo2.API.Controllers.GruposController",
+    "Method": "Guardar",
+    "RelativePath": "api/Grupos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newObj",
+        "Type": "Ein.DTOS.GrupoSetDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

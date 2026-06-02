@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CentroComputo2.API/CentroComputo2.API.csproj" />
+  <Project Path="CentroComputo2.core/CentroComputo2.core.csproj" />
+  <Project Path="CentroComputo2.Data/CentroComputo2.Data.csproj" />
+</Solution>
